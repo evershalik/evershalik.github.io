@@ -97,14 +97,14 @@ class CreateParticles {
 
 		this.data = {
 
-			text: 'SHANKAR\nMALIK',
+			text: 'SHANKAR\n  MALIK',
 			amount: 1500,
 			particleSize: 1,
 			particleColor: 0xffffff,
 			textSize: 16,
 			area: 250,
 			ease: .05,
-			textAlign : "center",
+			
 		}
 
 		this.setup();
