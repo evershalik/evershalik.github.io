@@ -104,6 +104,7 @@ class CreateParticles {
 			textSize: 16,
 			area: 250,
 			ease: .05,
+			textAlign : "center",
 		}
 
 		this.setup();
