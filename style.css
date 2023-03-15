@@ -9,6 +9,10 @@ html, body {
   font-size: 9px;
 }
 
+.a{
+text-decoration:none;
+}
+
 #magic {
 
   position: fixed;
